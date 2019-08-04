@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "83c16095-73cc-43d6-b181-65ac6c503aaf",
+            "Value": {
+                "id": "31cf82a1-1797-45e7-86ec-e5d9c1d9aa44",
+                "resourcePath": "objects\\obj_mov_spikes\\obj_mov_spikes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8654ba8d-1278-41fa-bf45-46362fc1f6dc",
             "Value": {
                 "id": "2cdc1bd8-73a5-46de-bf49-1e494ef985c2",
